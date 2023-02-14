@@ -80,7 +80,7 @@ nav ul li a {
     color: rgb(154, 20, 167);
 }
 
-a:hover{
+li:hover{
     font-size: larger;
     transition: 400ms;
 }
@@ -90,7 +90,7 @@ main{
     align-items: center;
     justify-content: center;
     width: 100vw;
-    height: 90vh;
+    height: 120vh;
     text-align: center;
     color: #ffffff;
     background-color: #1a1a1a;
